@@ -50,7 +50,7 @@
       ".*\\.(vue)$": "<rootDir>/node_modules/vue-jest"
     },
     "moduleNameMapper": {
-      "\\.(css|jpg|jpeg|png|webp|scss|sass|svg|eot|woff|woff2|ttf|otf|ico)$": "<rootDir>/__test__/empty-module.js"
+      "\\.(css|jpeg|jpg|png|webp|scss|sass|svg|eot|woff|woff2|ttf|otf|ico)$": "<rootDir>/__test__/empty-module.js"
     }
   },
   "dependencies": {
